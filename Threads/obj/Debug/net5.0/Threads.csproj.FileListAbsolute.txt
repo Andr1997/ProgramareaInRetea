@@ -1,0 +1,16 @@
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\bin\Debug\net5.0\Threads.exe
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\bin\Debug\net5.0\Threads.deps.json
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\bin\Debug\net5.0\Threads.runtimeconfig.json
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\bin\Debug\net5.0\Threads.runtimeconfig.dev.json
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\bin\Debug\net5.0\Threads.dll
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\bin\Debug\net5.0\ref\Threads.dll
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\bin\Debug\net5.0\Threads.pdb
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\obj\Debug\net5.0\Threads.csprojAssemblyReference.cache
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\obj\Debug\net5.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\obj\Debug\net5.0\Threads.AssemblyInfoInputs.cache
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\obj\Debug\net5.0\Threads.AssemblyInfo.cs
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\obj\Debug\net5.0\Threads.csproj.CoreCompileInputs.cache
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\obj\Debug\net5.0\Threads.dll
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\obj\Debug\net5.0\ref\Threads.dll
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\obj\Debug\net5.0\Threads.pdb
+C:\Users\huben\source\repos\ProgramareaRetea\Threads\obj\Debug\net5.0\Threads.genruntimeconfig.cache

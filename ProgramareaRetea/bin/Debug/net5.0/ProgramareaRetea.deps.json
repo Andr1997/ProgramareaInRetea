@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProgramareaRetea/1.0.0": {
+        "runtime": {
+          "ProgramareaRetea.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramareaRetea/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

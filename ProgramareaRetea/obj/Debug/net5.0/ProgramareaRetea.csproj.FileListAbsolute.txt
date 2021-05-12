@@ -1,0 +1,16 @@
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\bin\Debug\net5.0\ProgramareaRetea.exe
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\bin\Debug\net5.0\ProgramareaRetea.deps.json
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\bin\Debug\net5.0\ProgramareaRetea.runtimeconfig.json
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\bin\Debug\net5.0\ProgramareaRetea.runtimeconfig.dev.json
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\bin\Debug\net5.0\ProgramareaRetea.dll
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\bin\Debug\net5.0\ref\ProgramareaRetea.dll
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\bin\Debug\net5.0\ProgramareaRetea.pdb
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\obj\Debug\net5.0\ProgramareaRetea.csprojAssemblyReference.cache
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\obj\Debug\net5.0\ProgramareaRetea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\obj\Debug\net5.0\ProgramareaRetea.AssemblyInfoInputs.cache
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\obj\Debug\net5.0\ProgramareaRetea.AssemblyInfo.cs
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\obj\Debug\net5.0\ProgramareaRetea.csproj.CoreCompileInputs.cache
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\obj\Debug\net5.0\ProgramareaRetea.dll
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\obj\Debug\net5.0\ref\ProgramareaRetea.dll
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\obj\Debug\net5.0\ProgramareaRetea.pdb
+C:\Users\huben\source\repos\ProgramareaRetea\ProgramareaRetea\obj\Debug\net5.0\ProgramareaRetea.genruntimeconfig.cache

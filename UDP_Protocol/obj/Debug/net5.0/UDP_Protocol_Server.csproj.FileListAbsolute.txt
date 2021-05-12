@@ -1,0 +1,16 @@
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\bin\Debug\net5.0\UDP_Protocol_Server.exe
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\bin\Debug\net5.0\UDP_Protocol_Server.deps.json
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\bin\Debug\net5.0\UDP_Protocol_Server.runtimeconfig.json
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\bin\Debug\net5.0\UDP_Protocol_Server.runtimeconfig.dev.json
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\bin\Debug\net5.0\UDP_Protocol_Server.dll
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\bin\Debug\net5.0\ref\UDP_Protocol_Server.dll
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\bin\Debug\net5.0\UDP_Protocol_Server.pdb
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\obj\Debug\net5.0\UDP_Protocol_Server.csprojAssemblyReference.cache
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\obj\Debug\net5.0\UDP_Protocol_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\obj\Debug\net5.0\UDP_Protocol_Server.AssemblyInfoInputs.cache
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\obj\Debug\net5.0\UDP_Protocol_Server.AssemblyInfo.cs
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\obj\Debug\net5.0\UDP_Protocol_Server.csproj.CoreCompileInputs.cache
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\obj\Debug\net5.0\UDP_Protocol_Server.dll
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\obj\Debug\net5.0\ref\UDP_Protocol_Server.dll
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\obj\Debug\net5.0\UDP_Protocol_Server.pdb
+C:\Users\huben\source\repos\ProgramareaRetea\UDP_Protocol\obj\Debug\net5.0\UDP_Protocol_Server.genruntimeconfig.cache

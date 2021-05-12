@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\huben\\source\\repos\\ProgramareaRetea\\ProgramareaRetea\\ProgramareaRetea.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\huben\\source\\repos\\ProgramareaRetea\\ProgramareaRetea\\ProgramareaRetea.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\huben\\source\\repos\\ProgramareaRetea\\ProgramareaRetea\\ProgramareaRetea.csproj",
+        "projectName": "ProgramareaRetea",
+        "projectPath": "C:\\Users\\huben\\source\\repos\\ProgramareaRetea\\ProgramareaRetea\\ProgramareaRetea.csproj",
+        "packagesPath": "C:\\Users\\huben\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\huben\\source\\repos\\ProgramareaRetea\\ProgramareaRetea\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\huben\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/codwer/ERP.Platform/_packaging/ERP/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

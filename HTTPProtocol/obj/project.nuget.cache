@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dnet/HTzRqrPg3IAM5/G4F5ThMALRYCUK9d9BwmXoDqusXU7slDxNL7yJUUKc86o7+HIBnZkpWlPMAtAV6UrdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\huben\\source\\repos\\ProgramareaRetea\\HTTPProtocol\\HTTPProtocol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huben\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
